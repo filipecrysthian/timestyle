@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.2);
+}
+
+.navbar img {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.navbar-title {
+    font-family: 'Lobster', sans-serif;
+    color: rgb(25, 23, 46);
+    letter-spacing: 8px;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    padding: 50px;
+}
+
+.leftMenu {
+    flex: 1;
+}
+
+.search {
+    margin: 10px 0px;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid gray;
+}
+
+h1 {
+    font-size: 30px;
+    color: #555;
+    font-weight: 300;
+}
+
+.cats {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cat {
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 300;
+    padding: 5px;
+}
+
+.content {
+    flex: 4;
+}
+
+.products {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+img {
+    width: 150px;
+    height: 250px;
+    object-fit: contain;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.priceText {
+    font-size: 26px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
