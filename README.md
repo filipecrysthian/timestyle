@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js">
 </div>
+![homepage](/home/filipe/Documents/projects/lama-dev/filter/img/webpage.png)
+
+
 
 Bem-vindo ao nosso site de vendas de relógios! Aqui você encontrará uma coleção impressionante de relógios elegantes e sofisticados para todos os estilos e ocasiões. 
 
@@ -29,4 +32,4 @@ O projeto de site de vendas de relógios é uma aplicação web que combina HTML
 
 ## Acesse Aqui 
 
-[Click]()
+[Time Style](https://filipecrysthian.github.io/timestyle/)
