@@ -5,7 +5,9 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js">
 </div>
-![homepage](https://github.com/filipecrysthian/timestyle/blob/main/img/webpage.png)
+<div> 
+    <img src="https://i.imgur.com/gPAg8wf.png" alt="homepage"> 
+</div>    
 
 
 
@@ -30,6 +32,6 @@ O projeto de site de vendas de relógios é uma aplicação web que combina HTML
 
 - MIT License
 
-## Acesse Aqui 
+## Acesse Aqui 👇
 
-[Time Style](https://filipecrysthian.github.io/timestyle/)
+- [Time Style](https://filipecrysthian.github.io/timestyle/)
