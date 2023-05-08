@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js">
 </div>
-![homepage](/home/filipe/Documents/projects/lama-dev/filter/img/webpage.png)
+![homepage](https://github.com/filipecrysthian/timestyle/blob/main/img/webpage.png)
 
 
 
